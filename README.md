@@ -1,7 +1,7 @@
 # SpectrumSculpt-K-means-Driven-Image-Optimization
 
 
-## 4 - Image compression with K-means
+##  Image compression with K-means
 
 In this exercise, you will apply K-means to image compression. 
 
