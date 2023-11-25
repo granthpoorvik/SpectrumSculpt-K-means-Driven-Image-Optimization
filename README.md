@@ -3,7 +3,7 @@
 
 ##  Image compression with K-means
 
-In this exercise, you will apply K-means to image compression. 
+
 
 * In a straightforward 24-bit color representation of an image$^{2}$, each pixel is represented as three 8-bit unsigned integers (ranging from 0 to 255) that specify the red, green and blue intensity values. This encoding is often refered to as the RGB encoding.
 * Our image contains thousands of colors, and in this part of the exercise, you will reduce the number of
@@ -18,7 +18,7 @@ the K-means algorithm to select the 16 colors that will be used to represent the
 <img src="figure 2.png" width="500" height="500">
 
 
-As you can see, this creates a three-dimensional matrix `original_img` where 
+ this creates a three-dimensional matrix `original_img` where 
 * the first two indices identify a pixel position, and
 * the third index represents red, green, or blue. 
 
